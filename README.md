@@ -7,8 +7,8 @@
 
 Hello I'm Rignchen, a swiss app dev student passionated in programmation.<br>
 I've been coding in mcfunction since I was 14 and learned python when I was 16<br>
-I code for around 2-3 hours for fun and 7 hours for work, during vocational this number can go up to 12 hours.<br>
-My favorite language is rust because it's fast, close to the machine and has a great compiler.<br>
+I code for around 2-3 hours for fun and 7 hours for work, this number can go up to 12 hours during vacations.<br>
+I like strict and optimized languages, that's why my favorite language is rust.<br>
 <br>
 ### 📊 Github Stats
 
