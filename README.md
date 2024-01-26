@@ -38,5 +38,6 @@ My favorite language is rust because it's fast, close to the machine and has a g
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="figma" height='42px'/> </a>
+<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="jetbrain" height='42px'/> </a>
+<a href="https://angular.io" target="_blank"> <img src="https://blog.ninja-squad.com/assets/images/angular_gradient.png" alt="angular" height='42px'/> </a>
 </div>
