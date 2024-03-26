@@ -26,6 +26,8 @@ I like strict and optimized languages, that's why my favorite language is rust.<
 <a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank"><img align="left" alt="Html" height ="42px" weight='42px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank"> <img align="left" alt="CSS" height ="42px" weight='42px' src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" weight='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.postgresql.org/"> <img align="left" alt="SQL" height="42px" weight="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"></a>
+<a href="https://www.php.net"> <img align="left" alt="PHP" height="42px" weight="42px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></a>
 </div>
 
 <br>
