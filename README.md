@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 ### 📖 About me
-Hello I'm Sleet, an Indian teenager living in the UAE who loves programming.
+Hello I'm Sleet, a teenager who loves programming.
 I'm experienced in multiple programming languages but my favourite's are Python and Java, and I also use Godot.
 I make random apps, video games, minecraft mods, and I'm even learning machine learning now.
 
